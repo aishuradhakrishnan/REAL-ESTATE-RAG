@@ -20,7 +20,8 @@ This project is designed for organizations or individuals dealing with property 
 ## System Architecture
 
 **High Level Architecture**
-<img src="Images/Flow_Chart.png"/>
+
+<img src="Images/Flow_Chart.png" width="700" height="1200"/>
 
 ## 📷 Demo Screenshots
 1. Full UI Overview
