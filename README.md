@@ -161,10 +161,5 @@ You can modify the following to adapt the system for your specific use case:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Would you like this saved as a `README.md` file for your project directory? I can generate it instantly.
+## Owner
+Developer - Aishwarya R
