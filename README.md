@@ -17,6 +17,10 @@ This project is designed for organizations or individuals dealing with property 
 * Built using Python and Streamlit for a modern, responsive interface.
 
 ---
+## System Architecture
+
+**High Level Architecture**
+<img src="Images/Flow_Chart.png"/>
 
 ## 📷 Demo Screenshots
 1. Full UI Overview
@@ -45,13 +49,6 @@ Example: “Which 2BHK properties under rs80L have parking facilities ?”
 
 **\[Placeholder: Video Demo]**
 
----
-
-## System Architecture
-
-> *(Insert a visual diagram showing the flow from file upload → processing → vectorization → retrieval → response generation)*
-
-**\[Placeholder: Architecture Diagram]**
 
 ---
 
@@ -88,7 +85,7 @@ REAL ESTATE - RAG/
 1. Clone the repository:
 
    ```bash
-   https://github.com/aishuradhakrishnan/REAL-ESTATE---RAG.git
+   https://github.com/aishuradhakrishnan/REAL-ESTATE-RAG.git
    cd REAL-ESTATE-RAG
    ```
 
