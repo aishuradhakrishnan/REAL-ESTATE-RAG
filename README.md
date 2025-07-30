@@ -44,11 +44,12 @@ Example: “Which 2BHK properties under rs80L have parking facilities ?”
 
 ---
 
-## Demonstration Video
+## 🎥 Demo Video
 
-> *(Insert a walkthrough video showcasing file upload, queries, and responses)*
+https://github.com/aishuradhakrishnan/REAL-ESTATE-RAG/issues/2#issue-3277171666
 
-**\[Placeholder: Video Demo]**
+
+See how PropertyAI processes real estate documents and provides intelligent responses through our glassmorphism interface.
 
 
 ---
