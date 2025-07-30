@@ -18,11 +18,24 @@ This project is designed for organizations or individuals dealing with property 
 
 ---
 
-## Interface Preview
+## 📷 Demo Screenshots
+1. Full UI Overview
+A clean dashboard with sidebar, upload button, and integrated chat interface.
 
-> *(Insert a screenshot of the main app interface here)*
+<img src="Images/UI.jpg" alt="Full UI Screenshot" width="800"/>
+2. Uploading PDF Document
+Users can upload a real estate-related PDF file.
 
-**\[Placeholder: UI Screenshot]**
+<img src="Images/docs_upload.jpg" alt="Uploading PDF" width="600"/>
+3. Chat Interface after Upload
+Once uploaded, the user can interact via chat.
+
+<img src="Images/chat_interface.jpg" alt="Chat Interface" width="600"/>
+4. Sample Question and AI Response
+Example: “Which 2BHK properties under rs80L have parking facilities ?”
+
+<img src="Images/response.jpg" alt="Sample Question Response" width="600"/>
+
 
 ---
 
